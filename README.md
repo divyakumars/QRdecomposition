@@ -11,7 +11,6 @@ eqn2 eqn3
 ##step3:Obtain the Q matrixeqn4
 ##step4:Construct the upper triangular matrix R eqn5
 
-
 ## Program:
 ### Gram-Schmidt Method
 ```
